@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedPillWCF", "RedPill\RedPillWCF.csproj", "{B488A011-954A-46B4-8C9C-1DADE6DDAF08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWCF", "TestWCF\TestWCF.csproj", "{A0EFD0A6-8ECF-4C7D-9A54-143865A24BED}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B488A011-954A-46B4-8C9C-1DADE6DDAF08} = {B488A011-954A-46B4-8C9C-1DADE6DDAF08}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B488A011-954A-46B4-8C9C-1DADE6DDAF08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B488A011-954A-46B4-8C9C-1DADE6DDAF08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B488A011-954A-46B4-8C9C-1DADE6DDAF08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B488A011-954A-46B4-8C9C-1DADE6DDAF08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0EFD0A6-8ECF-4C7D-9A54-143865A24BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0EFD0A6-8ECF-4C7D-9A54-143865A24BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0EFD0A6-8ECF-4C7D-9A54-143865A24BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0EFD0A6-8ECF-4C7D-9A54-143865A24BED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

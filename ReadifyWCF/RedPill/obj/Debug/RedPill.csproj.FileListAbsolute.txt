@@ -1,0 +1,55 @@
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\bin\ApplicationInsights.config
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x86.dll
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x64.dll
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\bin\RedPill.dll.config
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\bin\RedPill.dll
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\bin\RedPill.pdb
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\bin\Microsoft.ApplicationInsights.dll
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\bin\Microsoft.ApplicationInsights.Extensibility.PerfCollector.dll
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.dll
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\bin\Microsoft.ApplicationInsights.Extensibility.Web.dll
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\bin\Microsoft.Diagnostics.Instrumentation.Extensions.Intercept.dll
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\bin\Microsoft.Threading.Tasks.dll
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\bin\Microsoft.Threading.Tasks.Extensions.dll
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\bin\Microsoft.ApplicationInsights.xml
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.pdb
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.xml
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\bin\Microsoft.ApplicationInsights.Extensibility.Web.pdb
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\bin\Microsoft.ApplicationInsights.Extensibility.Web.xml
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\bin\Microsoft.Threading.Tasks.xml
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\bin\Microsoft.Threading.Tasks.Extensions.xml
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\obj\Debug\ApplicationInsights.config
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\obj\Debug\RedPill.dll
+c:\users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\obj\Debug\RedPill.pdb
+C:\Users\neo\documents\visual studio 2013\Projects\WCFService\RedPill\obj\Debug\RedPill.csprojResolveAssemblyReference.cache
+D:\WCFService\WCFService\RedPill\bin\ApplicationInsights.config
+D:\WCFService\WCFService\RedPill\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x86.dll
+D:\WCFService\WCFService\RedPill\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x64.dll
+D:\WCFService\WCFService\RedPill\bin\RedPill.dll.config
+D:\WCFService\WCFService\RedPill\bin\RedPill.dll
+D:\WCFService\WCFService\RedPill\bin\RedPill.pdb
+D:\WCFService\WCFService\RedPill\bin\Microsoft.ApplicationInsights.dll
+D:\WCFService\WCFService\RedPill\bin\Microsoft.ApplicationInsights.Extensibility.PerfCollector.dll
+D:\WCFService\WCFService\RedPill\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.dll
+D:\WCFService\WCFService\RedPill\bin\Microsoft.ApplicationInsights.Extensibility.Web.dll
+D:\WCFService\WCFService\RedPill\bin\Microsoft.Diagnostics.Instrumentation.Extensions.Intercept.dll
+D:\WCFService\WCFService\RedPill\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\WCFService\WCFService\RedPill\bin\Microsoft.Threading.Tasks.dll
+D:\WCFService\WCFService\RedPill\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\WCFService\WCFService\RedPill\bin\Microsoft.Threading.Tasks.Extensions.dll
+D:\WCFService\WCFService\RedPill\bin\Microsoft.ApplicationInsights.xml
+D:\WCFService\WCFService\RedPill\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.pdb
+D:\WCFService\WCFService\RedPill\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.xml
+D:\WCFService\WCFService\RedPill\bin\Microsoft.ApplicationInsights.Extensibility.Web.pdb
+D:\WCFService\WCFService\RedPill\bin\Microsoft.ApplicationInsights.Extensibility.Web.xml
+D:\WCFService\WCFService\RedPill\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\WCFService\WCFService\RedPill\bin\Microsoft.Threading.Tasks.xml
+D:\WCFService\WCFService\RedPill\bin\Microsoft.Threading.Tasks.Extensions.xml
+D:\WCFService\WCFService\RedPill\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\WCFService\WCFService\RedPill\obj\Debug\ApplicationInsights.config
+D:\WCFService\WCFService\RedPill\obj\Debug\RedPill.dll
+D:\WCFService\WCFService\RedPill\obj\Debug\RedPill.pdb
